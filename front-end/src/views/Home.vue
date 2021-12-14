@@ -11,7 +11,7 @@
   </section>
 
   <footer>
-    <a href="https://github.com/joeparis6/project4.git">https://github.com/joeparis6/project4.git</a>
+    
   </footer>
 </div>
 
