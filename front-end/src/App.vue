@@ -23,6 +23,8 @@
   </div>
   <div class="footer">
     <router-link to="/admin">Admin</router-link>
+    <br>
+    <a href ="https://github.com/joeparis6/project4.git">https://github.com/joeparis6/project4.git</a>
   </div>
 </div>
 </template>
